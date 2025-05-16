@@ -1,0 +1,16 @@
+{
+  "name": "NightmoonClub/Scraper",
+  "version": "1.0.0",
+  "description": "Memo Chiko.xyz",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memochiko/NightmoonClub-Scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/memochiko/NightmoonClub-Scraper/issues"
+  },
+  "homepage": "https://github.com/memochiko/NightmoonClub-Scraper#readme"
+}
